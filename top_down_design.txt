@@ -1,0 +1,31 @@
+Technical Assessment
+Top Down Design
+
+Process: How to become a Turing Student
+
+1. Seek Change
+  1.1 Ask yourself "Do you want more from your job?"
+  1.2 Research software development immersive programs
+    1.2.1 Find Turing
+      1.2.1.1 Become moved by Turing testimonials
+      1.2.1.2 Check bank account
+2. Apply
+  2.1 Apply online
+    2.1.1 Create a profile
+    2.1.2 Complete LSAT sequencing problems
+      2.1.2.1 Receive notice that Turing would like to interview you
+  2.2 Interview in Person
+    2.2.1 Get to Turing
+      2.2.1.1 Find parking
+      2.2.1.2 Ask front desk where Turing is located
+    2.2.2 Meet with Turing alum
+      2.2.2.1 Work through LSAT problems with interviewer
+      2.2.2.2 Talk about yourself
+        2.2.2.2.1 Talk about your strengths
+        2.2.2.2.2 Talk about your weaknesses
+3. Begin Mod0
+  3.1 Get computer
+    3.1.1 pay downpayment
+    3.1.2 setup computer
+  3.2 Enter Mod0 Zoom
+    3.2.1 Follow prompts to start zoom 
