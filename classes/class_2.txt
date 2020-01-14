@@ -1,0 +1,17 @@
+Class that might be in a restaurant
+
+Class: Entree
+
+Attributes:
+name (string)
+pairings (array)
+calories (integer)
+cook_time (integer)
+is_gluten_free (boolean)
+
+Methods:
+make_name_french (modifies name)
+salad_not_frenchfies (adds 'salad' and removes 'french fries' from pairings array)
+add_cheese (adds 100 to calories)
+well_done (adds 5 to cook_time)
+use_gluten_free_ingredients (sets is_gluten_free to true)

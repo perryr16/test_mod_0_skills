@@ -1,0 +1,17 @@
+
+
+Object: Chef
+
+Attributes:
+job_description: 'Dish washer'
+name: "Sue Scrubber"
+weight: 130
+on_time: true
+favorite_foods: ['shellfish', 'cheeseburger', 'ice cream']
+
+Methods:
+new_job: job_description = 'Chef'
+gets_married: name = 'Sue Sheff'
+eat_leftovers: weight = 131
+sleep_in: on_time = false
+gets_food_poisoning: favorite_foods = ['cheeseburger', 'ice cream']
